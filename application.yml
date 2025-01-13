@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: "config-Server"
 eureka:
   client:
     fetch-registry: true
